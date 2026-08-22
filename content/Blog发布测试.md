@@ -15,3 +15,6 @@ tags:
 Obsidian → GitHub → Quartz → GitHub Pages
 
 这条发布链路已经跑通。
+
+## 自动发布验证
+这句话只在Private ObsidianLibrary中修改。
