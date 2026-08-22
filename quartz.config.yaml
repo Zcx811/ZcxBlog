@@ -162,6 +162,7 @@ plugins:
     options:
         folderDefaultState: collapsed
         folderClickBehavior: collapse
+        useSavedState: true
     useSavedState: true
     layout:
       position: left
